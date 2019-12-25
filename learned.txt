@@ -1,0 +1,17 @@
+slicing backwards [::-1]
+__getitem__ override []
+float("inf") is an infinite number
+reference vs value: https://stackoverflow.com/questions/986006/how-do-i-pass-a-variable-by-reference
+if __name__ == '__main__':
+
+to learn
+  call bash script?
+  linking - module
+  destructure * and **
+  generator expression
+
+links
+  https://stackoverflow.com/questions/4260280/if-else-in-a-list-comprehension
+  https://stackoverflow.com/questions/9884132/what-exactly-are-iterator-iterable-and-iteration
+  https://stackoverflow.com/questions/986006/how-do-i-pass-a-variable-by-reference
+  https://stackoverflow.com/questions/6528848/change-value-of-currently-iterated-element-in-list
